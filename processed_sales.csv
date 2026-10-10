@@ -1,0 +1,13 @@
+Order_ID,Customer,Product,Category,City,Quantity,Price,Rating,Total_Sales
+ORD001,Arun,Laptop,Electronics,Chennai,1,60000,4.5,60000
+ORD002,Priya,Phone,Electronics,Madurai,2,30000,4.2,60000
+ORD003,Rahul,Mouse,Accessories,Chennai,3,1000,4.0,3000
+ORD004,Meena,Keyboard,Accessories,Coimbatore,2,2500,3.8,5000
+ORD005,Kavin,Laptop,Electronics,Chennai,1,60000,4.7,60000
+ORD006,Divya,Phone,Electronics,Madurai,1,30000,4.1,30000
+ORD007,Arun,Headphones,Accessories,Trichy,2,3000,4.27,6000
+ORD008,Priya,Mouse,Accessories,Chennai,4,1000,4.3,4000
+ORD009,Vijay,Laptop,Electronics,Coimbatore,1,60000,4.8,60000
+ORD010,Meena,Keyboard,Accessories,Madurai,2,2500,3.9,5000
+ORD011,Kavin,Phone,Electronics,Chennai,1,30000,4.4,30000
+ORD012,Divya,Headphones,Accessories,Trichy,3,3000,4.27,9000
